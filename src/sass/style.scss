@@ -1,0 +1,53 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+// ============= Import fonts ================
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+// ============= Import fonts ================
+html {
+	scroll-behavior: smooth;
+}
+body {
+	font-family: "Montserrat", sans-serif;
+}
+// ================ inline elements ================
+a,
+span,
+b,
+i,
+em,
+strong,
+mark {
+	font-family: "Montserrat", sans-serif;
+}
+
+// ================ inline elements ================
+// ================ form ================
+input,
+textarea,
+label,
+button {
+	font-family: "Montserrat", sans-serif;
+}
+// ================ form ================
+// ================ Heading ================
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Montserrat", sans-serif;
+}
+// ================ Heading ================
+// ================ Container ================
+.container {
+	width: 100%;
+	max-width: 1254px;
+	margin: 0 auto;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+// ================ Container ================
